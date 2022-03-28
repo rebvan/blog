@@ -62,19 +62,12 @@
   }
 }
 
-.post-image {
-    max-width: 900px;
-    margin: 40px auto 0 auto;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-color: $light-gray;
-  &:after {
-    content: "";
-    display: table;
+.post__head {
+  width: 900px;
+  margin: 40px auto 0 auto;
+
+  img {
     width: 100%;
-    min-height: 300px;
-    padding-top: 50%;
   }
 }
 
