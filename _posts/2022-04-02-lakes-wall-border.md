@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "The Lakes, The Wall and The Border"
+date:   2022-04-02 06:23:00
+image:  22-04-02-lakes-wall-border/hadrians-wall.jpg
+comments: false
+---
+
+After a lovely week in Hayfield exploring the British countryside with Jacob's parents, it was time for us to head off on our own towards Edinburgh. We decided to take the scenic route which took us first to the Lake District, then to Hexham (near Hadrian's Wall), and then up across the Scottish border.
+
+Jacob's parents are very kindly loaning us their van while we search for a vehicle of our own, so we loaded her up, waved goodbye and proceeded very carefully down the left hand side of the road. Although Jacob learned to drive in Britain, he's been in Canada for just under five years and has done extensive driving there, so it's still an adjustment. The first few hours were quite stressful (for me at least!) as we navigated "mini roundabouts" (basically there is a circle painted on the road, but everyone goes wherever they like! It's total chaos!), narrow roads where parked cars leave room for only single-lane traffic, and junctions where you have to really focus on ending up on the correct side of the road after making a turn. Jacob is an excellent driver so we really had no issues, but it took me a day or two to be able to relax in the passenger's seat. One thing I did enjoy on our drive up the M6 was the opportunity to stop at motorway services, which is like a mini rest-stop mall with coffee shops, fast food options, a convenience store, and washrooms. We tried ordering a London Fog at Starbucks, but apparently that's not a thing in the UK - next time I'll try asking for an Early Grey tea misto with a shot of lavender and we'll see how it goes.
+
+On Wednesday night we stayed in Windermere in the Lake District, at a lovely B&B called Glencree. We ate well during our stay: we had our first fish & chips of the trip from The Little Chippy in town (I even tried mushy peas - not bad!), and enjoyed a full English breakfast the next morning at Glencree. I think we surprised our host with how much luggage we hauled up and down from our room - most guests probably don't bring (close to) all of their possessions for one night!
+
+![Wray Castle]({{site.baseurl}}/images/22-04-02-lakes-wall-border/wray-castle.jpg "Wray Castle on Lake Windermere")
+
+After breakfast we set off for a morning of National Trust sightseeing on the lake - making the most of our membership! Our first stop was Wray Castle, a Victorian neo-gothic castle built in 1840. The castle itself wasn't the most interesting, but the grounds include a lovely walk along the lake so we braved the cold winds and stretched our legs while taking in the view. Next we made our way to Hill Top, Beatrix Potter's house which she purchased using proceeds from *The Tale of Peter Rabbit*. It was fascinating to see how much inspiration she found in her surroundings, as many of her book illustrations feature parts of her house or garden. I also enjoyed learning more about her as a person: unmarried, she used her own funds to purchase the home in 1905 and furnish it as she wished. However, her parents did not allow her to live there alone so she used it primarily as an artist's retreat. I admire her independence despite the strict expectations placed on women at that time.
+
+![Housesteads Roman fort]({{site.baseurl}}/images/22-04-02-lakes-wall-border/housesteads-fort.jpg "Housesteads Roman fort")
+
+After staying with friends of Jacob's in Hexham on Thursday night, we headed for Hadrian's Wall (pictured at the top of this post) first thing on Friday. The wall was constructed during the Roman emperor Hadrian's rule and bisects the island of Great Britain from east to west, covering the entire width of the island. We visited the section of the wall where the remains of the Housesteads fort (*Vercovicium*) are located. The fort was built around AD 124 and contained barracks, a headquarters, the Commander's house, a hospital, a granary and apparently the best-preserved Roman latrine in Britain (they're very proud of their toilets!). The small museum on site gives a history of the fort and showcases some of the artifacts found there, after which you're free to roam around the remains of the fort and the wall.
+
+![The border between England and Scotland]({{site.baseurl}}/images/22-04-02-lakes-wall-border/scottish-border.jpg "The border between England and Scotland")
+
+Once we had our fill of Roman history, we continued northwards towards the Anglo-Scottish border. We arrived in Edinburgh in the afternoon, and luckily found parking across the street from where we're staying in the heart of the city. By now we're experts at lugging our bikes and luggage through doors and up stairs, so we were soon ready to start settling in to our home for the next seven weeks.
+
+Rewinding slightly to our time in Hayfield, one visit I did not yet write about was our trip to Chatsworth, a stately home near Bakewell. The home is owned and occupied by the Duke and Duchess of Devonshire, but a large part is open to the public. The current exhibition, Living With Art We Love, showcases the couple's favourite pieces from their extensive collection. It was interesting to see how their modern taste contrasts with the history of the house (which was primarily completed in 1708). To be honest, modern art is not really my thing (why pay so much for a neon-coloured iPhone rendering?) but it was lovely to look around the house and gardens. I'll leave you with a photo of one of the more captivating statues we saw.
+
+![Lion statue at Chatsworth]({{site.baseurl}}/images/22-04-02-lakes-wall-border/chatsworth-lion.jpg "Lion statue at Chatsworth")

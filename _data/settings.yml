@@ -8,7 +8,7 @@ logo: #logo.svg # You can add own logo.
 # Author Settings
 author:
   name: Rebecca V
-  image: cover.jpg
+  image: site/cover.jpg
   say-hello: Welcome
   bio: to my travel blog, documenting adventures abroad
 
