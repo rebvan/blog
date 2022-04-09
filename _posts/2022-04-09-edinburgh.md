@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Edinburgh"
+date:   2022-04-09 09:32:00
+image:  22-04-09-edinburgh/edinburgh.jpg
+comments: false
+---
+
+We've been in Edinburgh just over a week now and have kept ourselves busy with settling into our flat (see how I'm getting the lingo down?), meeting Jacob's friends, running around the city, and exploring the local walking trails. We're staying at an Airbnb in the Old Town, quite close to the castle. It's very helpful when navigating the city to have such a distinct landmark to show you the way home! The flat is small but functional: it doesn't have a dishwasher (insert joke here about how *we* are the dishwashers) but it does have a two-in-one washer/dryer. The dryer part doesn't seem that effective, and the spin cycle on the washer makes the whole room vibrate, but it's great to have in-suite laundry. We have had some difficulty finding room for all of our stuff, given the limited storage, which raises the concern of how we will manage when we move into an even smaller home on wheels! Striking a balance between *small enough to drive around narrow European roads without having a heart attack* and *large enough to contain three seasons' worth of outdoor gear* may be an interesting challenge as we begin shopping for camper vans.
+
+I'm finding the city to be much busier than I expected. There are definitely more tourists here than in Vancouver, and I'm not as used to crowds as I was pre-pandemic. Aside from weaving through crowds of fellow pedestrians, the main struggle I have with navigating the city is crossing the road. I know it sounds simple, but I find the intersections here quite confusing and I am never sure who has right of way. The "green man" indicating when to cross appears only briefly in most cases, so jaywalking is mandatory in order to get anywhere within a reasonable timeframe. When I'm with Jacob it's much easier, although I have on a few occasions refused to follow him across the road because I'm convinced cars could start going at any moment (they haven't). When I've gone running by myself, I've had a few long waits at lights for the "green man." My claim to fame thus far when it comes to getting around the city is riding my bike from our Airbnb to where we parked the van - a perilous journey of two miles involving a mini-roundabout, several right turns and the constant requirement to stay on the left-hand side of the road. I am proud to report that I survived the journey, and look forward to more city cycling after my heart rate has returned to normal.
+
+![Classic Scottish food]({{site.baseurl}}/images/22-04-09-edinburgh/food.jpg "Classic Scottish food")
+
+After crossing the border, one of the most frequently asked questions I've received is, "Have you tried haggis yet?" Well dear readers, I am pleased to report that yes, I have tried it. In fact, I polished off the plate of haggis, neeps & tatties that you see above. My assessment? While it was much better than I anticipated (given the contents), it's not something I'll be rushing out to have again soon. I may still try vegetarian haggis though - all the flavour without the offal! Irn Bru is another Scottish classic I couldn't leave without trying. Jacob ordered one so I could have a taste without committing to an entire bottle; this turned out to be wise as I'm not much of a soda/pop drinker and was pretty iffy on the taste.
+
+![Hillwalking in the Pentlands]({{site.baseurl}}/images/22-04-09-edinburgh/pentlands1.jpg "Hillwalking in the Pentlands")
+
+To stay active and to see the sights, I've been enjoying a few runs in the city. So far I've gone around Arthur's Seat for a bit of a hill day, and gone along the canal for a more relaxing jog. Today Jacob and I went slightly further afield to the Pentlands for some hillwalking. Jacob used to mountain bike there and knows the area quite well. We went up three different hills and were treated to lovely views of the city and the surrounding landscape. The weather was mostly sunny, but boy was it windy up there! Even though we were going up hill, I kept three layers on because the wind made it so chilly. As we were descending, we traveled through a field of adorable cows. I was a bit nervous going through the field, as I've been warned to be careful around cows! Thankfully they were very chill and were much more interested in chewing grass than in us, so we could get a good look and take some photos. I love that we see so many cute animals on our walks!
+
+![A Scottish cow enjoying the view]({{site.baseurl}}/images/22-04-09-edinburgh/cow.jpg "A Scottish cow enjoying the view")
+
+This week, we get down to business. Camper shopping starts in earnest! Cross your fingers and toes, and stay tuned for an update on finding our new home.
