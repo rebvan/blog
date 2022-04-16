@@ -90,10 +90,19 @@
   img {
     margin: 30px 0;
   }
+
+  img + em {
+    color: $text-color;
+    margin-top: -10px;
+  }
 }
 
 .post__content {
   margin-bottom: 40px;
+
+  .center-image {
+    text-align: center;
+  }
 }
 
 .post__navigation {
