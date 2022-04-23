@@ -103,6 +103,12 @@
   .center-image {
     text-align: center;
   }
+
+  .vertical-image {
+    img {
+      max-height: 570px;
+    }
+  }
 }
 
 .post__navigation {

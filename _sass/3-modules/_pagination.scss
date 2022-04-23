@@ -29,10 +29,11 @@
 
   .next-link,
   .previous-link {
-    color: $dark;
+    background: $black;
+    color: $white;
 
     &:hover {
-      color: $black;
+      background: $dark;
     }
   }
 
