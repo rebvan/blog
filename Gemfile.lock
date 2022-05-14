@@ -284,7 +284,6 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jekyll-tagging
-  minima (~> 2.5)
   webrick
 
 BUNDLED WITH
