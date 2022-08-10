@@ -92,7 +92,6 @@
   }
 
   img + em {
-    color: $text-color;
     margin-top: -10px;
   }
 }
@@ -102,6 +101,15 @@
 
   .center-image {
     text-align: center;
+
+    em {
+      text-align: center;
+      display: block;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      color: $text-color;
+    }
   }
 
   .vertical-image {

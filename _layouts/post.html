@@ -12,10 +12,16 @@ layout: default
         <h1 class="post-title">{{ page.title | escape }}</h1>
 
         <div class="post__info">
-          <div class="post__author">
-            <span>By</span>
-            <a href="{{ site.baseurl }}/about/" class="author-name">{{site.data.settings.author.name}}</a>
-          </div>
+          {% if page.author %}
+            <div class="post__author">
+              <span>By {{page.author}}</span>
+            </div>
+          {% else %}
+            <div class="post__author">
+              <span>By</span>
+              <a href="{{ site.baseurl }}/about/" class="author-name">{{site.data.settings.author.name}}</a>
+            </div>
+          {% endif %}
 
           {% if page.tags.size >= 1 %}
           <div class="post__tags">
