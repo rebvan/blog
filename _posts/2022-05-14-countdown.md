@@ -12,7 +12,7 @@ Last Friday we picked the van up from the dealer and got a tour of how everythin
 
 This past week, we traveled to Dublin (pictured above) for a work conference, which was also a great opportunity to spend time with one of our close friends who did a similar relocation to what we have planned a few years ago. He now lives in Berlin, and we'll be visiting him there at the end of June.
 
-{: .center-image }
+{: .center-image .vertical-image }
 ![Castle gate]({{site.baseurl}}/images/22-05-14-countdown/castle.jpg "Castle gate")
 *One of the entry gates at Dublin Castle*
 
